@@ -2,7 +2,7 @@ import base64
 import sys
 
 sys.path.append(
-    ".venv\\lib\\python3.11\\site-packages"
+    "venv\\lib\\python3.11\\site-packages"
 )  # obviously not my real filepath
 
 
