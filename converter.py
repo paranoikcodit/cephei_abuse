@@ -1,10 +1,7 @@
 import base64
 import sys
 
-sys.path.append(
-    "venv\\lib\\python3.11\\site-packages"
-)  # obviously not my real filepath
-
+sys.path.append(".venv\\lib\\python3.11\\site-packages")
 
 from pathlib import Path
 from opentele.td import TDesktop
